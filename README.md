@@ -8,8 +8,6 @@ This is a CMS-style blog site similar to a Wordpress site, where developers can 
 
 ## Usage
 
-![Tech_Blog](./assets/images/screenshot.png)
-
 - [Github](https://github.com/ngolston/Tech_Blog)
 - README.md
 
